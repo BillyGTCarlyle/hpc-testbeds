@@ -211,7 +211,7 @@ document.querySelector('a.toggle-visibility-controls').addEventListener('click',
 
 Is your system not included on this list?
 Please [add it at the GitHub repository for this site][github]!
-See [this page][checklist] for guidelines on what information should be documented per cluster.
+See [SHAREing's checklist][checklist] for guidelines on what information should be documented.
 
-[github]: <https://github.com/SHAREing-dri/hpc-testbeds>
 [checklist]: <https://shareing-dri.github.io/resources/testbed-checklist>
+[github]: <https://github.com/SHAREing-dri/hpc-testbeds>
